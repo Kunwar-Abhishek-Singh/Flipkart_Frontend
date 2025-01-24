@@ -1,3 +1,24 @@
+<p align="center">
+    <img src="assets/flipkart_homepage.png" width="900" height="380" alt="Home Page">
+</p>
+
+<p align="center">
+    <img src="assets/login_page.png" width="900" height="380" alt="Home Page">
+</p>
+
+<p align="center">
+    <img src="assets/signup_page.png" width="900" height="380" alt="Home Page">
+</p>
+
+<p align="center">
+    <img src="assets/detail_page.png" width="900" height="380" alt="Home Page">
+</p>
+
+<p align="center">
+    <img src="assets/cart-page.png" width="900" height="380" alt="Home Page">
+</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
